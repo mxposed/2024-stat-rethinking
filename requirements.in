@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+seaborn
+pymc
+tqdm
+pandas
+numpy
+arviz
+
